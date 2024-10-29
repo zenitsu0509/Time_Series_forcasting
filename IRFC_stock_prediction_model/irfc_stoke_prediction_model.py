@@ -99,6 +99,3 @@ scaler.scale_
 scale_factor = 1/0.01073192
 y_pred = y_pred * scale_factor
 y_test = y_test * scale_factor
-
-
-
